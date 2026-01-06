@@ -130,3 +130,10 @@ You can confidently showcase this project on:
 ✅ Academic / Capstone Submissions
 
 ✅ Job Interviews & Case Studies
+
+
+
+OUTPUT 
+<img width="1736" height="651" alt="Image" src="https://github.com/user-attachments/assets/99f90b21-5261-46c2-a2d8-2f5118b606ce" />
+
+<img width="1230" height="585" alt="Image" src="https://github.com/user-attachments/assets/564af456-0ef2-47a6-952d-6672da5968a2" />
