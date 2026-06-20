@@ -70,7 +70,8 @@ Compares regional sales performance.
 Supports data-driven decision-making.
 
 📷 Dashboard Preview
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard]
+
 
  <img width="1297" height="731" alt="Screenshot 2026-06-20 094522" src="https://github.com/user-attachments/assets/97be7a66-b5b4-48f0-a1e2-68e41f07f71b" />
 
