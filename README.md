@@ -1,141 +1,99 @@
+📊 Sales Performance Dashboard
+CodTech IT Solutions Internship – Task 1
+Company: CodTech IT Solutions
+Name: Garima Singh
+Intern ID: CT04DR3113
+Domain: Power BI
+Duration: 4 Weeks
+Mentor: Neela Santosh
 
+📌 Project Overview
 
-# sales-dashboard-
-COMPANY-CODTECH IT SOLUTIONS
-NAME-GARIMA SINGH
-INTERN ID-CT04DR3113
-DOMAIN-POWER BI
-DURATION-4 WEEKS
-MENTOR-NEELA SANTOSH
+This project focuses on developing an interactive Sales Performance Dashboard using Power BI to analyze business performance through sales trends, product performance, and regional sales analysis.
 
-
-Project Overview
-
-This project focuses on building an interactive Sales Dashboard to analyze business performance using a sample (random) sales dataset.
-The dashboard provides insights into sales trends over time, top-performing products, and regional sales performance, enabling data-driven decision-making.
-
-The solution is designed to simulate a real-world business intelligence use case using industry-standard tools.
+The dashboard enables users to monitor key business metrics and explore sales data through interactive visualizations and slicers.
 
 🛠️ Tools & Technologies Used
-1️⃣ Power BI Desktop
-
+Power BI Desktop
 Data loading and transformation
+Data modeling
+Interactive dashboard design
+Data visualization
+DAX (Data Analysis Expressions)
 
-Data modeling and relationships
-
-DAX calculations
-
-Interactive dashboard creation
-
-2️⃣ DAX (Data Analysis Expressions)
-
-Used to create business metrics such as:
+Used to calculate:
 
 Total Sales
-
 Total Profit
-
 Total Quantity Sold
+Dataset
 
-Time-based sales trends
-
-3️⃣ Python (for dashboard preview & validation)
-
-Libraries Used:
-
-pandas – data manipulation
-
-matplotlib – data visualization
-
-Used to quickly visualize and validate trends before final Power BI implementation
-
-4️⃣ CSV Dataset
-
-Randomly generated sales data
-
-Fields include:
+The dashboard uses a sample sales dataset containing:
 
 Order Date
-
 Region
-
 Product
-
 Category
-
-Sales, Quantity, and Profit
+Sales
+Quantity
+Profit
 
 📈 Dashboard Features
-🔹 Key Performance Indicators (KPIs)
-
+🔹 KPI Cards
 Total Sales
-
 Total Profit
-
 Total Quantity Sold
+🔹 Monthly Sales Trend
 
-🔹 Sales Trend Analysis
+Line chart showing monthly sales performance and trends.
 
-Line chart showing monthly sales trends
+🔹 Product Sales Analysis
 
-Helps identify growth patterns and seasonality
+Bar chart displaying product-wise sales performance.
 
-🔹 Product Performance
+🔹 Regional Sales Analysis
 
-Bar chart highlighting top-performing products by sales
+Visualization comparing sales performance across different regions.
 
-Enables comparison between products
+🔹 Interactive Slicers
 
-🔹 Regional Performance
-
-Visual representation of sales by region
-
-Identifies high- and low-performing regions
-
-🔹 Interactive Filters (Slicers)
-
-Region
-
-Product
-
-Category
+Users can filter the dashboard using:
 
 Order Date
+Region
+Product
 
-These slicers allow users to dynamically explore the data.
+🎯 Business Insights
+Identifies top-performing products.
+Tracks monthly sales trends.
+Compares regional sales performance.
+Supports data-driven decision-making.
 
-🎯 Business Value
+📷 Dashboard Preview
+![Sales Dashboard](Sales_Dashboard.png)
 
-This dashboard helps stakeholders:
-
-Monitor overall sales performance
-
-Identify top products and regions
-
-Analyze trends for strategic planning
-
-Make informed, data-driven decisions
+ <img width="1297" height="731" alt="Screenshot 2026-06-20 094522" src="https://github.com/user-attachments/assets/97be7a66-b5b4-48f0-a1e2-68e41f07f71b" />
 
 
-Where I Can Use This Project
+🚀 Project Applications
 
-You can confidently showcase this project on:
+This project can be showcased in:
 
 ✅ GitHub Portfolio
-
-✅ Resume (Data Analyst / BI roles)
-
 ✅ LinkedIn Projects Section
-
+✅ Data Analyst Portfolio
 ✅ Power BI Portfolio
+✅ Resume Projects Section
+✅ Academic Submissions
+✅ Job Interviews and Case Studies
 
-✅ Academic / Capstone Submissions
+📁Project Files
+Sales_Dashboard.pbix
+sales_data.csv
+dashboard_screenshot.png
+README.md
 
-✅ Job Interviews & Case Studies
+ Developed By
 
-
-
-OUTPUT 
-<img width="1736" height="651" alt="Image" src="https://github.com/user-attachments/assets/99f90b21-5261-46c2-a2d8-2f5118b606ce" />
-
-<img width="1230" height="585" alt="Image" src="https://github.com/user-attachments/assets/564af456-0ef2-47a6-952d-6672da5968a2" />
+Garima Singh
+Power BI Intern – CodTech IT Solutions
